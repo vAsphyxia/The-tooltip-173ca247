@@ -1,0 +1,21 @@
+.tooltip{
+    position: absolute;
+    top: 10px; left: 960px;
+}
+
+ 
+
+.tooltip-content{
+position: relative;
+color: grey;
+}
+
+ 
+
+.tooltip-content: hover{
+  background-color: black;
+  color :white;
+  width: 400px;
+  height: 100px;
+  right: 400px;
+  }
